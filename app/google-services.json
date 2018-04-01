@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "107774409964",
+    "firebase_url": "https://studycase6-9579c.firebaseio.com",
+    "project_id": "studycase6-9579c",
+    "storage_bucket": "studycase6-9579c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107774409964:android:14704c679a84799e",
+        "android_client_info": {
+          "package_name": "com.example.syanaz.syanaztasia_1202152327_studycase6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107774409964-2auk0csjrrhmmmko04jnqoh3h2m8pfp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oNWTCZafD9SpuDgE7uw6e_XJeYPfdqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
